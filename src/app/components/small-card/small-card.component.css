@@ -1,4 +1,4 @@
-.container__small-card{
+.container_small-card{
     margin-bottom: 15px;
   
     @media(min-width: 1000px) {
